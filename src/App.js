@@ -7,8 +7,6 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <br>
-          <br>
           Welcome to SMD Client Web Application Data Download Tool (SCWADD) 
         </p>
         <a
