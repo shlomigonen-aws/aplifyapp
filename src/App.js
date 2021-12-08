@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} alt="logo" />
+        <img src={logo} alt="logo" height="200"/>
         <p>
           Welcome to SMD Client Web Application Data Download Tool (SCWADD) 
         </p>
